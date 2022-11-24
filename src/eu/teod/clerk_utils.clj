@@ -22,9 +22,3 @@
 
 (defmacro doc [form]
   `(doc* (var ~form)))
-
-;; Just use it like `clojure.repl/doc`!
-
-(doc map)
-
-(doc juxt)
