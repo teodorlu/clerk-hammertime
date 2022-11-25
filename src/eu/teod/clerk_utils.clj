@@ -22,3 +22,11 @@
 
 (defmacro doc [form]
   `(doc* (var ~form)))
+
+(defn xyplot [xyvalues]
+  {:data {:values (for [[x y] xyvalues]
+                    {:x x :y y})}
+   :encoding {:x {:field :x :type :quantitative}
+              :y {:field :y :type :quantitative}}
+   :mark :line
+   :width 640})
