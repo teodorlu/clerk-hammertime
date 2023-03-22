@@ -1,5 +1,3 @@
 #+title: Teodor's Clerk utils
 
-/Q: Should I be using this?/
-
-Not really. Feel free to copy anything you like, though.
+Status: Alpha, expect breaking changes.
