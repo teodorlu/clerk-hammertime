@@ -1,7 +1,7 @@
 ^{:nextjournal.clerk/visibility #{:hide-ns}}
 (ns eu.teod.clerk-utils.docs
   (:require [nextjournal.clerk :as clerk]
-            [eu.teod.clerk-utils :refer [doc xyplot]]))
+            [eu.teod.clerk-utils :refer [doc xyplot youtube-embed]]))
 
 ;; # Documentation
 
@@ -25,3 +25,7 @@
 
 (clerk/vl (xyplot (for [x (range -10 10.01 0.1)]
                     [x (* x x x)])))
+
+;; ## `eu.teod.clerk-utils/youtube-embed`
+
+(clerk/html (youtube-embed "a0T_d_N7wbg"))
