@@ -1,4 +1,4 @@
-(ns teodorlu.clerk-utils)
+(ns teodorlu.clerk-toolbelt)
 
 (defn youtube-embed [youtube-id]
   (let [default-size {:width 560 :height 315}
