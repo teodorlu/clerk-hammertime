@@ -1,4 +1,4 @@
-(ns teodorlu.clerk-toolbelt)
+(ns teodorlu.clerk-hammertime)
 
 (defn youtube-embed [youtube-id]
   (let [default-size {:width 560 :height 315}
