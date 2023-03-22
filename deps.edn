@@ -1,4 +1,3 @@
 {:paths ["dev" "src"]
- :deps {nextjournal/clerk {:git/url "https://github.com/nextjournal/clerk"
-                           :git/sha "1e68685431bc5836cca5835db604afab9f19cdf4"}
-        org.clojure/data.json {:mvn/version "2.4.0"}}}
+ :deps {org.clojure/data.json {:mvn/version "2.4.0"}
+        io.github.nextjournal/clerk {:mvn/version "0.13.842"}}}
