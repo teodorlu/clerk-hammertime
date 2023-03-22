@@ -1,3 +1,5 @@
-#+title: A clerk toolbelt
+#+title: CLERK HAMMERTIME
 
-Status: Alpha, expect breaking changes.
+WHEN ALL YOU HAVE IS A HAMMER; IT'S HAMMERIMTE!
+
+WHEN LIFE GIVES YOU LEMONS; TAKE UP YOUR HAMMER AND BUILD A BETTER LIFE!
