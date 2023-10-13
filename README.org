@@ -1,5 +1,3 @@
-#+title: CLERK HAMMERTIME
+#+title: Clerk Hammertime
 
-WHEN ALL YOU HAVE IS A HAMMER; IT'S HAMMERTIME! (hamirite?)
-
-WHEN LIFE GIVES YOU LEMONS; TAKE UP YOUR HAMMER AND BUILD A BETTER LIFE!
+A collection of hammers for Clerk.
